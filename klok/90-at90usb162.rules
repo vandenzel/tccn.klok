@@ -1,0 +1,3 @@
+# Atmel AT90USB162 (Minimus USB)
+SUBSYSTEM=="usb", ATTRS{idVendor}=="03eb", ATTRS{idProduct}=="2ffa", GROUP="users", MODE="0660"
+
